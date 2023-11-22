@@ -7,6 +7,6 @@ This project is a password generator that creates strong and secure passwords fo
 ## Usage
 To use the password generator, follow these steps:
 
-1. Customize your password criteria (length, uppercase letters, numbers, special characters).
+1. Customize your password criteria (length, uppercase letters, uppercase letters, lowercase letters numbers, special characters).
 2. Click the "Generate Password" button.
 3. Copy the generated password to use it as needed.
